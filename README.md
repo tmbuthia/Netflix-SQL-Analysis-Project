@@ -34,7 +34,7 @@ The project addresses the following business questions:
 4. Find the top 5 countries with the highest content on Netflix.
 5. Identify the longest movie by duration.
 6. Identify content added to Netflix within the last 5 years.
-7. List all content directed by 'Steven Spielberg'.
+7. List all content directed by Steven Spielberg.
 8. List all TV shows with more than 5 seasons.
 9. Count the number of content items in each genre.
 10. Determine the top 5 years with the highest average content release in France.
