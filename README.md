@@ -37,7 +37,7 @@ The project addresses the following business questions:
 7. List all content directed by 'Rajiv Chilaka'.
 8. List all TV shows with more than 5 seasons.
 9. Count the number of content items in each genre.
-10. Determine the top 5 years with the highest average content release in India.
+10. Determine the top 5 years with the highest average content release in France.
 11. List all movies that are documentaries.
 12. Identify content without a listed director.
 13. Count the number of movies featuring 'David Spade' in the last 10 years.
