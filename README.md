@@ -43,7 +43,24 @@ The project addresses the following business questions:
 13. Count the number of movies featuring 'David Spade' in the last 10 years.
 14. Identify the top 10 actors who appeared in the highest number of movies produced in the United States.
 15. Classify content as 'Good' or 'Bad' based on the presence of 'kill' or 'violence' in descriptions.
-![image](https://github.com/user-attachments/assets/960e915e-5f0f-4b92-8edb-ab7193ff4f40)
+```sql
+DROP TABLE IF EXISTS netflix;
+CREATE TABLE netflix
+(
+	show_id	VARCHAR(20),
+	type    VARCHAR(10),
+	title	VARCHAR(250),
+	director VARCHAR(550),
+	casts	VARCHAR(1050),
+	country	VARCHAR(550),
+	date_added	VARCHAR(55),
+	release_year	INT,
+	rating	VARCHAR(15),
+	duration	VARCHAR(15),
+	listed_in	VARCHAR(250),
+	description VARCHAR(550)
+);
+```
 ![image](https://github.com/user-attachments/assets/3980d45f-4b32-454a-834c-b664768a4f16)
 ![image](https://github.com/user-attachments/assets/22ac820a-983c-49a5-88ff-f54df9aec85c)
 ![image](https://github.com/user-attachments/assets/b6833ef0-5ac8-4a7a-bc39-59e0bdc60ea2)
